@@ -1,6 +1,9 @@
-MIT License
+BlazeStorm v1 - DDoS Penetration Testing Tool
+--------------------------------------------------------
 
-Copyright (c) 2025 CRXBitcoin
+License: MIT License
+
+Copyright (c) [Year] @CRXBitcoin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +22,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--------------------------------------------------------
+IMPORTANT NOTICE:
+
+This tool is intended for educational and authorized testing purposes only. 
+The creator and contributors of this software do not condone or support the 
+unauthorized use of this tool on systems you do not own or have explicit 
+permission to test. Unauthorized use is illegal and unethical. Always obtain 
+written consent before performing any penetration testing or security 
+assessments.
+
+By using this tool, you agree to assume all responsibility for your actions.
