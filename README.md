@@ -1,10 +1,10 @@
 # BlazeStorm v1 - DDoS Penetration Testing Tool
 
-BlazeStorm v2 is a DDoS (Denial of Service) tool intended for **educational and authorized testing purposes only**. This tool allows you to simulate a high-volume ping attack to a target system by sending large ICMP packets. It is a **penetration testing** tool meant to be used in legal and controlled environments where you have explicit permission to test the systems.
+BlazeStorm v1 is a DDoS (Denial of Service) tool intended for **educational and authorized testing purposes only**. This tool allows you to execute a high-volume ping attack to a target system by sending large ICMP packets. I am not responsible for any damage caused wether it be legal or illegal.
 
 ## Disclaimer
 
-**Important**: Unauthorized use of this tool on systems you do not own or have explicit permission to test is illegal and unethical. Always ensure you have written consent from the system owner before conducting any penetration testing.
+**Important**: Unauthorized use of this tool on systems you do not own or have explicit permission to test is illegal and unethical.
 
 By using this tool, you agree to assume all responsibility for your actions. The creator and contributors of this software do not condone or support illegal activities. Use at your own risk.
 
@@ -24,7 +24,7 @@ By using this tool, you agree to assume all responsibility for your actions. The
 
 1. Download or clone the repository containing the `BlazeStorm` tool.
 2. Navigate to the folder where you downloaded the tool.
-3. Open the `BlazeStorm.bat` script in a Windows command prompt.
+3. Open the `BlazeStorm_v1.bat` script in a Windows command prompt.
 
 ## Usage
 
@@ -46,7 +46,7 @@ Feel free to fork the repository, make improvements, or suggest enhancements thr
 
 ## Authors
 
-- @CRXBitcoin (Creator of BlazeStorm v2)
+- @CRXBitcoin (Creator of BlazeStorm v1)
 
 ## Acknowledgments
 
